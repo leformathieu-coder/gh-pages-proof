@@ -1,0 +1,2 @@
+# gh-pages-proof
+docs
